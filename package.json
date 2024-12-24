@@ -1,0 +1,33 @@
+{
+  "name": "imgnxcolors",
+  "packageManager": "yarn@4.5.3",
+  "version": "1.0.0",
+  "description": "A framework (or 'template') for dealing with colors in the browser and/or CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imgnxorg/imgnxcolors.git"
+  },
+  "keywords": [
+    "colors",
+    "technicolor",
+    "gamut",
+    "lut",
+    "luts",
+    "chalk",
+    "themes",
+    "tailwind",
+    "radix",
+    "adobe",
+    "spectrum"
+  ],
+  "author": "Donald Wayne Moore Jr.",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/imgnxorg/imgnxcolors/issues"
+  },
+  "homepage": "https://github.com/imgnxorg/imgnxcolors#readme"
+}
